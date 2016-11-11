@@ -1,0 +1,45 @@
+@media screen and (max-width: 500px) {
+    p {
+     font-size: .8em; 
+    }
+
+    img {
+      height: 30%;
+      width: 30%;
+    }
+}
+
+h3 {
+  padding: 25px;
+  border: dashed;
+}
+
+p {
+  margin: 15px;
+}
+
+footer {
+  margin-left: 500px;
+}
+
+#first {
+  background-image: url("images/adams.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.uorder {
+ color: red; 
+}
+
+#blues {
+  color: blue;
+}
+
+a:visited {
+    color: green;
+}
